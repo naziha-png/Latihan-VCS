@@ -5,6 +5,6 @@
 
 - screenshot prosesnya
 
-![img 1](screenshot/screenshot1.png)
-![img 2](screenshot/screenshot2.png)
+![screenshot 1](Screenshot/screenshot1.png)
+![screenshot 2](Screenshot/screenshot2.png)
 
